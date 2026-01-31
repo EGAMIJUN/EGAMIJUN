@@ -29,7 +29,7 @@ Specializing in **Port Logistics (港湾物流)**, I bridge the gap between Lega
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EGAMIJUN&show_icons=true&theme=radical&count_private=true" height="150" alt="Jun's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EGAMIJUN&show_icons=true&theme=radical&count_private=true" height="150" alt="EGAMIJun's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMIJUN&layout=compact&theme=radical" height="150" alt="Jun's Top Langs" />
 </div>
 
@@ -39,7 +39,7 @@ Specializing in **Port Logistics (港湾物流)**, I bridge the gap between Lega
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **⚓️ GodScheduler** | React, Next.js, Go | AI-driven scheduling system for port workers. Includes "Lunch Order" features. |
+| **⚓️ GodScheduler** | React, Next.js, .NET 9| AI-driven scheduling system for port workers. Includes "Lunch Order" features. |
 | **🤖 LWA (Legacy Wrapper Agent)** | C#, .NET 9, AI | A wrapper agent to control legacy VB.NET desktop apps via API. |
 | **⚛️ Quantum Port Opt** | Python, OpenJij | Logistics route optimization using Quantum Annealing. |
 | **📦 mini-NACCS** | C#, ASP.NET | A lightweight simulation of the Japanese Port Import/Export system. |
