@@ -45,4 +45,4 @@ Specializing in **Port Logistics (港湾物流)**, I bridge the gap between Lega
 | **⚓️ GodScheduler** | React, Next.js, .NET 9| AI-driven scheduling system for port workers. Includes "Lunch Order" features. |
 | **🤖 LWA (Legacy Wrapper Agent)** | C#, .NET 9, AI | A wrapper agent to control legacy VB.NET desktop apps via API. |
 | **⚛️ Quantum Port Opt** | Python, OpenJij | Logistics route optimization using Quantum Annealing. |
-| **📦 mini-NACCS** | C#, ASP.NET | A lightweight simulation of the Japanese Port Import/Export system. |
+| **⛓️ PortTwin** | Solana, Rust (Anchor), Next.js | Decentralized Container Ledger. Records immutable "Gate-In" logs on-chain. |
