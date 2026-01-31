@@ -29,10 +29,10 @@ Specializing in **Port Logistics (港湾物流)**, I bridge the gap between Lega
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EGAMIJUN&theme=radical" alt="Jun's GitHub Streak" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EGAMIJUN&theme=radical" alt="EGAMIJun's Streak" />
+  
+  <br/>
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMIJUN&layout=compact&theme=radical" height="150" alt="Jun's Top Langs" />
 </div>
 
