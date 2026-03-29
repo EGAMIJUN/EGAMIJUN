@@ -1,4 +1,4 @@
-# Hi there, I'm Jun Egami 👋
+# Hi there, I'm Jun  👋
 ### Port-Tech Architect ⚓️ | Modernizing Logistics with AI & .NET
 
 I am a **Software Engineer & Founder** based in **Fukuoka, Japan 🇯🇵**.  
