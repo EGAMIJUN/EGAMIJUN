@@ -1,48 +1,53 @@
-# Hi there, I'm Jun  👋
-### Port-Tech Architect ⚓️ | Modernizing Logistics with AI & .NET
+# Hi, I'm Jun 👋
 
-I am a **Software Engineer & Founder** based in **Fukuoka, Japan 🇯🇵**.  
-Specializing in **Port Logistics (港湾物流)**, I bridge the gap between Legacy Systems (VB.NET, On-Premise) and Modern Tech (AI Agents, Cloud, Quantum Computing).
+**Port-Tech Architect ⚓️ | Modernizing Legacy Logistics with AI & .NET**
 
-- 🔭 I’m currently working on **GodScheduler** (AI-driven resource management for port workers).
-- 🌱 I’m currently learning **Quantum Computing (OpenJij)** for logistics optimization.
-- ⚓️ Founder of **LWA (Legacy Wrapper Agent)** project.
-- 💬 Ask me about **Port Logistics, .NET Migration, and System Architecture**.
+Software Engineer & Indie Dev based in Fukuoka, Japan 🇯🇵  
+Specializing in Port Logistics (港湾物流) — bridging legacy systems and modern tech.
 
 ---
 
-### 🛠 Tech Stack
+## 🔭 What I'm building
 
-**Languages** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Cloud** ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+| Project | Stack | Description |
+|---|---|---|
+| ⚓️ **GodScheduler** | React, Next.js, .NET 9 | AI-driven scheduling for port workers. Optimizes "Gang" allocation. |
+| 🤖 **LWA-Workspace** | C#, .NET 9, AI | Controls legacy VB.NET desktop apps via API/AI — no rewrite needed. |
+| 🏯 **ikkou（忌校）** | TypeScript | First-person Japanese school horror game. Raycasting engine. |
+| 🥢 **haunted-wok** | TypeScript | Steampunk Chinatown 3D game. |
+| ⚛️ **quantum-port-optimization** | Python, OpenJij | Container slot assignment via quantum annealing. |
+| ⛓️ **PortTwin** | Rust, Solana, Next.js | Decentralized container Gate-In ledger on-chain. |
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EGAMIJUN&theme=radical" alt="EGAMIJun's Streak" />
-  
-  <br/>
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-178600?style=flat&logo=csharp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-dea584?style=flat&logo=rust&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMIJUN&layout=compact&theme=radical" height="150" alt="Jun's Top Langs" />
-</div>
+**Frameworks & Cloud**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-### 🚀 Major Projects
+## 💬 Ask me about
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **⚓️ GodScheduler** | React, Next.js, .NET 9| AI-driven scheduling system for port workers. Includes "Lunch Order" features. |
-| **🤖 LWA (Legacy Wrapper Agent)** | C#, .NET 9, AI | A wrapper agent to control legacy VB.NET desktop apps via API. |
-| **⚛️ Quantum Port Opt** | Python, OpenJij | Logistics route optimization using Quantum Annealing. |
-| **⛓️ PortTwin** | Solana, Rust (Anchor), Next.js | Decentralized Container Ledger. Records immutable "Gate-In" logs on-chain. |
+Port Logistics · .NET Migration · Legacy Modernization · System Architecture · Indie Game Dev
+
+---
+
+## 📊 Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EGAMIJUN&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMIJUN&layout=compact&theme=dark&hide_border=true)
+
+---
+
+<sub>⚓️ Former ship agent (Hakata) → IT engineer → building port-tech from the inside out.</sub>
