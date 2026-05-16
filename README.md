@@ -46,7 +46,8 @@ Port Logistics · .NET Migration · Legacy Modernization · System Architecture 
 ## 📊 Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EGAMIJUN&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMIJUN&layout=compact&theme=dark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EGAMIJUN&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/EGAMIJUN)
 
 ---
 
